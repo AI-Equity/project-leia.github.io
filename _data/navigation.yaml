@@ -1,0 +1,8 @@
+main:
+  - title: "Meet the Virtual Lab"
+    url: /about/
+  - title: "Resources"
+    url: /resources/
+  - title: "International Health Systems"
+    url: https://www-edc.eng.cam.ac.uk/research/international-health-systems
+    target: _blank
