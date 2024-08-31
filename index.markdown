@@ -10,7 +10,7 @@ toc_label: "Project LEIA"
 toc_icon: "fa-solid fa-robot"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 # Welcome to our Virtual Lab!
-Welcome to Project LEIA. This is a virtual lab of computer scientists, clinicians, and engineers interested in pooling together resources for improving fairness in Artificial Intelligence models used in healthcare.
+Welcome to Project LEIA. This is a virtual lab of computer scientists, clinicians, and engineers interested in pooling together resources for improving fairness in Artificial Intelligence (AI) models used in healthcare.
 # Navigating this Webpage
 We have structured this webpage as follows:
 
